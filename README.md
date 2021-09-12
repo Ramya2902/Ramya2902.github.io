@@ -8,13 +8,16 @@
 
 ---
 Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www.ashwinkumarchippa.com/)
+
 ---
 
 # Education Qualification
 - University of Missouri, Columbia
+
   Masters in Computer Science
 
 - Chaitanya Bharathi Institute of Technology, Hyderabad
+
   Bachelor of Engineering in Electronics and Communication Engineering
 
 ---
@@ -31,10 +34,14 @@ Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www
 ---
 
 # Work experience 
-Role: Application Development Senior Analyst
+**_Role_**: Application Development Senior Analyst
+
  Start Date: May 2017
+ 
  End Date: Aug 2021
+ 
  # Description
+ 
 -I am a part of development team, making enhancements to the Web Applications for a telecom client. I handle the development of 3 website applications.
 -I have worked on 25-30 application enhancements across different technologies like ASP.Net, MVC, Angular and Web-API. These enhancements helped in increasing the productivity of call centre agents by 10% and improved the user experience.
 - Developed an Application Programming Interface (API) to retrieve data from SharePoint to the calling application which was highly appreciated by the client as it reduced 40 Hrs effort for the similar enhancements.
