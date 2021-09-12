@@ -42,8 +42,8 @@ Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www
  
  # Description
  
--I am a part of development team, making enhancements to the Web Applications for a telecom client. I handle the development of 3 website applications.
--I have worked on 25-30 application enhancements across different technologies like ASP.Net, MVC, Angular and Web-API. These enhancements helped in increasing the productivity of call centre agents by 10% and improved the user experience.
+- I am a part of development team, making enhancements to the Web Applications for a telecom client. I handle the development of 3 website applications.
+- I have worked on 25-30 application enhancements across different technologies like ASP.Net, MVC, Angular and Web-API. These enhancements helped in increasing the productivity of call centre agents by 10% and improved the user experience.
 - Developed an Application Programming Interface (API) to retrieve data from SharePoint to the calling application which was highly appreciated by the client as it reduced 40 Hrs effort for the similar enhancements.
 - Developed an agent facing website application from scratch to view the customer’s information. We have integrated the systems of two different telecom companies into single application which helped the call centre agent to troubleshoot the customer’s issue quickly. Thus, improving the customer experience. 
 - Designed and developed a windows service job which would get the excel files from an SFTP server, process the data and convert into readable pdf format. Designed the job to process all the files simultaneously using threading concept.
