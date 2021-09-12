@@ -1,18 +1,24 @@
 **_Title_**: Ashwin Kumar's Resume 
+
 **_Full Name_**: Ashwin Kumar Chippa
+
 **_LinkedIn profile_**: [https://www.linkedin.com/in/ashwin-kumar-chippa/](https://www.linkedin.com/in/ashwin-kumar-chippa/)
+
 **_Phone Number_**: +15736399608
 
 ---
 Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www.ashwinkumarchippa.com/)
 ---
+
 # Education Qualification
 - University of Missouri, Columbia
   Masters in Computer Science
 
 - Chaitanya Bharathi Institute of Technology, Hyderabad
   Bachelor of Engineering in Electronics and Communication Engineering
+
 ---
+
 # Skills
 
 | Categories       | Tools                                                              | 
@@ -23,6 +29,7 @@ Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www
 | Cloud Services   |AWS, Azure                                                          |  
 
 ---
+
 # Work experience 
 Role: Application Development Senior Analyst
  Start Date: May 2017
@@ -41,10 +48,10 @@ Role: Application Development Senior Analyst
 
 # Certifications & Awards
   
-...Microsoft Certifications
+Microsoft Certifications
    - Developing ASP.NET MVC Web Applications
    - Azure Fundamentals
 
-...Awards
+Awards
    - Received Apex award twice in the span of 3 years for high performance. It is awarded to 4% of total employees (approx. 5000) in a Delivery unit.
 
