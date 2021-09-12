@@ -40,7 +40,7 @@ Domain Link this for a reference: [http://www.ashwinkumarchippa.com/](http://www
  
  End Date: Aug 2021
  
- # Description
+# Description
  
 - I am a part of development team, making enhancements to the Web Applications for a telecom client. I handle the development of 3 website applications.
 - I have worked on 25-30 application enhancements across different technologies like ASP.Net, MVC, Angular and Web-API. These enhancements helped in increasing the productivity of call centre agents by 10% and improved the user experience.
